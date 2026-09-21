@@ -3,7 +3,6 @@
 # Majed Khaled Almutairi
 
 ### COMPUTER ENGINEERING STUDENT
-
 ### Software & Embedded Systems
 
 Based in Kuwait · Open to relocating within the GCC
@@ -15,3 +14,9 @@ Based in Kuwait · Open to relocating within the GCC
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majedkhaled0606@gmail.com)
 
 </div>
+
+---
+
+## About
+
+Hello World.
