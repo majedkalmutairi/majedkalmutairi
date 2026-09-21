@@ -8,7 +8,7 @@
 
 Based in Kuwait · Open to relocating within the GCC
 
-<br />
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://portfolio-sigma-self-juhjmizuu9.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majed-almutairi-7b30a5439/)
