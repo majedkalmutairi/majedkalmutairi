@@ -5,7 +5,7 @@
 ### COMPUTER ENGINEERING STUDENT
 ### Software & Embedded Systems
 
-Based in Kuwait · Open to relocating within the GCC
+Based in Kuwait · Open to relocating within KSA
 
 <br/>
 
