@@ -63,7 +63,7 @@ A medication and supplement reminder that runs entirely on your iPhone.
   <a href="https://portfolio-sigma-self-juhjmizuu9.vercel.app/projects/dosey"><img src="assets/dosey-history.webp" width="26%" alt="Dosey's History screen"></a>
 </p>
 
-I started it to help my family remember their medication when I'm not around. My part was the product design, the decisions and the testing. There's no account and no server, so nothing leaves the phone. It reminds you before, at, and after each dose, warns you before you run out, and its colours shift with the time of day. It's on TestFlight with a handful of people.
+I started it to help my family remember their medication when I'm not around. My part was the product design and testing, plus the decisions along the way. There's no account and no server, so nothing leaves the phone. It reminds you before, at and after each dose and warns you before you run out. Its colours also shift with the time of day. It's on TestFlight with a handful of people.
 
 <sub>iOS · Expo · TestFlight</sub>
 
