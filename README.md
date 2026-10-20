@@ -19,7 +19,7 @@ Based in Kuwait · Open to relocating within KSA
 
 ## About
 
-Hello World. I'm Majed, a third-year Computer Engineering student at the American University of the Middle East (AUM) in Kuwait, expected to graduate in 2028 (GPA 3.97/4.0).
+Hello World. I'm Majed, a third-year Computer Engineering student at the American University of the Middle East (AUM) in Kuwait, expected to graduate in 2028.
 
 Software to me is the mind, and hardware is an extension of it. It's like giving software hands to work with, and watching it use them just as you wrote it to. I got into making things through games in Unity and C#, and these days most of my time goes into embedded systems: Arduino, sensors, soldering, and 3D-printed parts to hold it all together. My favourite part of any project is when it turns from guessing into doing.
 
